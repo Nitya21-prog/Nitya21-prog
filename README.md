@@ -16,3 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=Nitya21-prog&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎓CERTIFICATIONS
+☁️ Oracle Cloud Infrastructure (OCI) Developer Professional — Oracle (Sep 2025)
+🌐 Full-Stack Web Development Bootcamp — Udemy (2026)
+✨Data Analytics – Deloitte
+💡IBM-AI Forms And Functions
